@@ -1,4 +1,4 @@
-# assignment_backend
+# assignment_frontend
 This is the front-end part of the assignment web application for passing the code challenge of GeoSensorWeb lab. The project is uploaded in two repositoires. This on covers front-end development of the client-server web application. 
 ## Overview
 The purpose of this project is to maximize the amount of signal GeosensorWeb lab receive about each candidate when they complete our code test. The perfect code test maximizes signal while minimizing time. The lab value feedback. If you love, hate, or otherwise wish to help us improve our signal project please open an issue. 
