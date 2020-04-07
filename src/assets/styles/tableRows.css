@@ -1,0 +1,28 @@
+﻿
+
+	.TFtable{
+		width:100%; 
+		border-collapse:collapse; 
+	}
+	.TFtable th {
+		padding-top: 12px;
+		padding-bottom: 12px;
+		text-align: left;
+		background-color: #4CAF50;
+		color: white;
+	  }
+	.TFtable td{ 
+		padding:7px; border:#4e95f4 1px solid;
+		font-family: Arial; font-size: 10pt;
+	}
+	.TFtable tr{
+		background: #e5e7eb;
+	}
+	.TFtable tr:nth-child(even){ 
+		background: #b8d1f3;
+	}
+	.TFtable tr:nth-child(odd){
+		background: #0c61d8;
+	}
+
+
